@@ -1,4 +1,4 @@
-# Fraud Detection Kaggle Project
+# [Fraud Detection Kaggle Project](https://github.com/Alpacatony/Kaggle/blob/main/fraud-detection-21-1-2023.ipynb)
 
 ## Project Goal
 Credit card companies need to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
